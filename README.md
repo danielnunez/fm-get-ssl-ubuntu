@@ -1,4 +1,4 @@
-# FileMaker Get SSL (LetsEncrypt) Ubuntu
+# FileMaker Server Get SSL (Lets' Encrypt) Ubuntu
 Un script bash para obtener y renovar certificados Let's Encrypt (certbot) para FileMaker Server con Linux (Ubuntu).
 
 
