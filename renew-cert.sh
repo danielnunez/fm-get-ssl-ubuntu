@@ -3,8 +3,8 @@
 # Ingrese la ruta a su directorio de FileMaker Server, terminando en un slash
 SERVER_PATH="/opt/FileMaker/FileMaker Server/"
 
-FMADMIN="admin"
-FMPASS="apolo"
+FMADMIN="usuario"
+FMPASS="contraseña"
 
 #
 # no deberías editar nada debajo de esta línea

@@ -2,18 +2,18 @@
 
 # Cambie la variable de dominio al dominio/subdominio por el que desea un
 # certificado SSL
-DOMAIN="fms.corcia.app"
+DOMAIN="fms.dominio.com"
 
 # Cambie la dirección de correo electrónico de contacto a su dirección de
 # correo electrónico real para que Let's Encrypt pueda contactarlo si hay
 # algún problema
-EMAIL="dnunezse@gmail.com"
+EMAIL="correo@dominio.com"
 
 # Ingrese la ruta a su directorio de FileMaker Server, terminando en un slash
 SERVER_PATH="/opt/FileMaker/FileMaker Server/"
 
-FMADMIN="admin"
-FMPASS="apolo"
+FMADMIN="usuario"
+FMPASS="contraseña"
 
 #
 # no deberías editar nada debajo de esta línea
