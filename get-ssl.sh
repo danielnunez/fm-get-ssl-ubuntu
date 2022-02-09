@@ -16,7 +16,7 @@ FMADMIN="usuario"
 FMPASS="contraseña"
 
 #
-# no deberías editar nada debajo de esta línea
+# --- no deberías editar nada debajo de esta línea
 #
 
 WEB_ROOT="${SERVER_PATH}HTTPServer/htdocs"
